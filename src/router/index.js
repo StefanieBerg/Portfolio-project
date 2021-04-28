@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import MyProjects from '../views/MyProjects.vue';
+import Contact from '../views/Contact.vue';
 
 Vue.use(VueRouter)
 
@@ -10,6 +12,8 @@ const routes = [
     name: 'Home',
     component: Home
   },
+  { path: '/myprojects',  name: 'MyProjects', component: MyProjects },
+  { path: '/contact', name: 'Contact', component: Contact },
   {
     path: '/about',
     name: 'About',
@@ -27,3 +31,10 @@ const router = new VueRouter({
 })
 
 export default router
+
+
+
+
+
+ 
+ 
