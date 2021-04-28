@@ -13,7 +13,7 @@
 
     <v-container>
     <div class="galleryBlock">
-      <h2 class="text-center">My pictures</h2>
+      <h2 class="text-center">Photography</h2>
       <div class="startText">
         <p><span class="phat-text">Photography</span> is definitely one of the things I spend part of my free time on and I always try to <span class="phat-text">get better</span> at it.
           I really like taking pictures. Especially of <span class="phat-text">animals</span>, which I definitely take the most pictures of. But I am always <span class="phat-text">open to new challenges</span> and <span class="phat-text">learning something new</span>.
