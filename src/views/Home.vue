@@ -64,7 +64,7 @@
         elevation="2"
         color="green">
         <a href="https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf" target="_blank">
-          Downloads
+          Download
         </a>
       </v-btn>
     </div>
