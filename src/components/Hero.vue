@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <div class="heroBlock">
-        <v-carousel hide-delimiters>
+        <v-carousel hide-delimiters :show-arrows="false">
           <v-carousel-item
             v-for="(item,i) in items"
             :key="i"
@@ -30,12 +30,6 @@
         items: [
           {
             src: require("../assets/images/Bannerthing.png"),
-          },
-          {
-            src: require("../assets/images/Bannerthing2.png"),
-          },
-          {
-            src: require("../assets/images/Bannerthing3.png"),
           },
         ],
       }

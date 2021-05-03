@@ -9,7 +9,7 @@
     <v-container fluid>
       <router-view></router-view> 
     </v-container>  
-    <v-footer>
+     <v-footer>
       <Footer/>
     </v-footer>
   </v-app>

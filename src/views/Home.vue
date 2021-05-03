@@ -63,7 +63,7 @@
         id="button"
         elevation="2"
         color="green">
-        <a href="https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf" target="_blank">
+        <a href="https://www.dropbox.com/s/5onme88tsfxzssb/CV%20Stefanie.pdf?dl=0" target="_blank">
           Download
         </a>
       </v-btn>
