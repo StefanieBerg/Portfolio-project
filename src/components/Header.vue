@@ -7,15 +7,15 @@
 
       <v-toolbar-items class="hidden-xs-only">
         <v-btn text>
-          <router-link to="/">Home</router-link>
+          <router-link class="router" to="/">Home</router-link>
         </v-btn>
 
         <v-btn text>
-          <router-link to="/myprojects">My projects</router-link>
+          <router-link class="router" to="/myprojects">My projects</router-link>
         </v-btn>
 
         <v-btn text>
-          <router-link to="/contact">Contact</router-link>
+          <router-link class="router" to="/contact">Contact</router-link>
         </v-btn>
       </v-toolbar-items>
       <div class="hidden-sm-and-up">
@@ -72,5 +72,8 @@
     .v-btn {
       color: black;
     }
+  }
+  .router {
+    text-decoration: none;
   }
 </style>
